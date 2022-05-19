@@ -1,2 +1,2 @@
-# Divisores
+# MultiplosFuncion
 Created with CodeSandbox
