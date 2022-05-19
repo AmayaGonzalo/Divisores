@@ -1,4 +1,4 @@
-rotulo.innerHTML = "Verificar si son multiplos";
+rotulo.innerHTML = "Verificar si son multiplos cuantos divisores tiene";
 let numero = document.getElementById("dato1.value");
 let divisor = document.getElementById("dato2.value");
 let btnCalcular = document.getElementById("btnCalcular");
